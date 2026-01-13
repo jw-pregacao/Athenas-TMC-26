@@ -2,152 +2,130 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu de Quadras - Athenas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Menu de Quadras</title>
     <style>
         :root {
-            --primary-color: #2e7d32; /* Verde mais elegante */
-            --hover-color: #1b5e20;
-            --bg-panel: #f9f9f9;
-            --text-color: #333;
+            --primary: #2e7d32;
+            --bg: #ffffff;
+            --text: #333333;
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #f0f2f5;
+            font-family: sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 15px;
+            /* Impede seleção de texto acidental ao clicar rápido nos botões */
+            user-select: none;
         }
 
         h2 {
             text-align: center;
-            color: var(--text-color);
-            margin-bottom: 25px;
+            color: var(--text);
+            font-size: 1.2rem;
         }
 
-        /* Estilo dos Botões */
         .accordion {
-            background-color: var(--primary-color);
+            background-color: var(--primary);
             color: white;
             cursor: pointer;
-            padding: 15px 20px;
+            padding: 16px;
             width: 100%;
             border: none;
             text-align: left;
-            outline: none;
             font-size: 16px;
-            font-weight: 600;
-            transition: 0.3s;
-            margin-bottom: 5px;
+            font-weight: bold;
             border-radius: 8px;
+            margin-top: 8px;
             display: flex;
             justify-content: space-between;
-            align-items: center;
+            transition: 0.2s;
         }
 
-        .active, .accordion:hover {
-            background-color: var(--hover-color);
+        .accordion:active {
+            transform: scale(0.98); /* Efeito visual de clique */
+            background-color: #1b5e20;
         }
 
-        /* Ícone de seta */
-        .accordion:after {
-            content: '\002B'; /* Sinal de + */
-            font-weight: bold;
-            float: right;
-            margin-left: 5px;
-        }
-
-        .active:after {
-            content: "\2212"; /* Sinal de - */
-        }
-
-        /* Painel de Conteúdo */
         .panel {
-            padding: 0 18px;
-            background-color: var(--bg-panel);
+            background-color: white;
             max-height: 0;
             overflow: hidden;
-            transition: max-height 0.2s ease-out;
-            margin-bottom: 10px;
+            transition: max-height 0.3s ease-out;
             border-radius: 0 0 8px 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
 
-        .panel-content {
-            padding: 15px 0;
+        .content {
+            padding: 20px;
+            display: flex;
+            justify-content: center;
         }
 
         .btn-link {
-            display: inline-block;
-            background-color: #fff;
-            color: #1a73e8;
-            padding: 10px 15px;
             text-decoration: none;
-            border: 1px solid #dadce0;
+            background-color: #007bff;
+            color: white;
+            padding: 12px 25px;
             border-radius: 5px;
-            font-weight: 500;
+            font-weight: bold;
             width: 100%;
-            box-sizing: border-box;
             text-align: center;
-            transition: all 0.2s;
-        }
-
-        .btn-link:hover {
-            background-color: #f1f3f4;
-            border-color: #1a73e8;
         }
     </style>
 </head>
 <body>
 
-    <h2>📍 Menu de Quadras</h2>
+    <h2>📍 Designação de Território</h2>
 
-    <button class="accordion">1.1 Sargento 1-A (Direita)</button>
+    <button class="accordion">1.1 Sargento 1-A (Direita) <span>+</span></button>
     <div class="panel">
-      <div class="panel-content">
-        <a href="https://jw-pregacao.github.io/Athenas-TMC-26/quadra1a-direito.html" class="btn-link" target="_blank">🗺️ Abrir Mapa Direita</a>
-      </div>
+        <div class="content">
+            <a href="https://jw-pregacao.github.io/Athenas-TMC-26/quadra1a-direito.html" class="btn-link" target="_blank">VER MAPA</a>
+        </div>
     </div>
 
-    <button class="accordion">1.2 Passaúna 1-A</button>
+    <button class="accordion">1.2 Passaúna 1-A <span>+</span></button>
     <div class="panel">
-      <div class="panel-content">
-        <a href="https://jw-pregacao.github.io/Athenas-TMC-26/quadra1a-passauna.html" class="btn-link" target="_blank">🗺️ Abrir Mapa Passaúna</a>
-      </div>
+        <div class="content">
+            <a href="https://jw-pregacao.github.io/Athenas-TMC-26/quadra1a-passauna.html" class="btn-link" target="_blank">VER MAPA</a>
+        </div>
     </div>
 
-    <button class="accordion">1.3 Sargento 1-A (Esquerda)</button>
+    <button class="accordion">1.3 Sargento 1-A (Esquerda) <span>+</span></button>
     <div class="panel">
-      <div class="panel-content">
-        <a href="https://jw-pregacao.github.io/Athenas-TMC-26/quadra1a-esquerdo.html" class="btn-link" target="_blank">🗺️ Abrir Mapa Esquerda</a>
-      </div>
+        <div class="content">
+            <a href="https://jw-pregacao.github.io/Athenas-TMC-26/quadra1a-esquerdo.html" class="btn-link" target="_blank">VER MAPA</a>
+        </div>
     </div>
 
     <script>
-        var acc = document.getElementsByClassName("accordion");
+        const acc = document.getElementsByClassName("accordion");
         
-        for (var i = 0; i < acc.length; i++) {
+        for (let i = 0; i < acc.length; i++) {
             acc[i].addEventListener("click", function() {
-                // Fecha todos os outros painéis antes de abrir o novo
-                for (var j = 0; j < acc.length; j++) {
+                // Fecha os outros
+                for (let j = 0; j < acc.length; j++) {
                     if (acc[j] !== this) {
-                        acc[j].classList.remove("active");
                         acc[j].nextElementSibling.style.maxHeight = null;
+                        acc[j].querySelector('span').innerText = "+";
                     }
                 }
 
-                // Alterna o painel clicado
-                this.classList.toggle("active");
-                var panel = this.nextElementSibling;
+                // Abre/Fecha o atual
+                const panel = this.nextElementSibling;
+                const span = this.querySelector('span');
+                
                 if (panel.style.maxHeight) {
                     panel.style.maxHeight = null;
+                    span.innerText = "+";
                 } else {
                     panel.style.maxHeight = panel.scrollHeight + "px";
+                    span.innerText = "-";
                 }
             });
         }
     </script>
-
 </body>
 </html>

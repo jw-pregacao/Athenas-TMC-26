@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>QUADRA 01-B</h1>
+<h3>(LADO ESQUERDO)</h3>
+
+<p>(19 CASAS)</p>
+
+<p><strong>R. Sgt. Haroldo Cordeiro Jr.</strong></p>
+
+<label><input type="checkbox"> 25</label><br>
+<label><input type="checkbox"> 69</label><br>
+<label><input type="checkbox"> 28</label><br>
+<label><input type="checkbox"> 98</label><br>
+<label><input type="checkbox"> 102</label><br>
+<label><input type="checkbox"> 4</label><br>
+<label><input type="checkbox"> S/N</label><br>
+<label><input type="checkbox"> 02</label><br>
+<label>|X| 18-B (Conj. aptos)*</label><br>
+<label><input type="checkbox"> 19</label><br>
+<label><input type="checkbox"> 20</label><br>
+<label><input type="checkbox"> 256</label><br>
+<label>|X| 244 (Conj. casas)*</label><br>
+<label><input type="checkbox"> 234</label><br>
+<label><input type="checkbox"> 222</label><br>
+<label><input type="checkbox"> 208</label><br>
+
+<br>
+
+<p><strong>R. Cidade Jardim Olinda</strong></p>
+
+<label><input type="checkbox"> 6_6</label><br>
+<label><input type="checkbox"> 622-3</label><br>
+<label><input type="checkbox"> 622-2</label><br>
+<label><input type="checkbox"> 622-1</label><br>
+<label><input type="checkbox"> 606-C</label><br>
+
+<hr>
+
+<p>
+* Locais marcados com asterisco podem ser pontos com restrição, ou mesmo, de outras modalidades (como Comércios ou Condomínios) em que há períodos determinados de pregação.
+<br><br>
+3/3
+</p>
+
+</body>
+</html>

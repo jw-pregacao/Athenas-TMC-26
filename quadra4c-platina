@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>QUADRA 04-C</h1>
+
+<img src="quadra04c.png" width="100%">
+
+<p>(14 CASAS)</p>
+
+<p><strong>R. St. Antônio da Platina</strong></p>
+
+<label><input type="checkbox"> 223</label><br>
+<label><input type="checkbox"> S/N</label><br>
+<label><input type="checkbox"> 309 (Esq.)</label><br>
+<label><input type="checkbox"> 309 (Dir.)</label><br>
+<label><input type="checkbox"> 315 (Esq.)</label><br>
+<label><input type="checkbox"> 315 (Dir.)</label><br>
+
+<br>
+
+<p><strong>R. Cid. Jardim Olinda</strong></p>
+
+<label><input type="checkbox"> 30</label><br>
+<label><input type="checkbox"> 78</label><br>
+<label><input type="checkbox"> 30-B</label><br>
+<label><input type="checkbox"> S/N</label><br>
+
+<br>
+
+<p><strong>R. Eduardo Sprada</strong></p>
+
+<label><input type="checkbox"> 7365</label><br>
+<label><input type="checkbox"> 7385</label><br>
+
+<hr>
+
+<p>
+5/11
+<br><br>
+* Locais marcados com asterisco podem ser pontos com restrição, ou mesmo, de outras modalidades (como Comércios ou Condomínios) em que há períodos determinados de pregação.
+</p>
+
+</body>
+</html>

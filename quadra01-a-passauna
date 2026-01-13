@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>QUADRA 01-A</h1>
+<h3>(LADO PASSAÚNA)</h3>
+
+<img src="quadra01a.png" width="100%">
+
+<p>(09 CASAS)</p>
+
+<p><strong>R. Eduardo Sprada (após o portal)</strong></p>
+
+<label>|X| 8374</label><br>
+<label><input type="checkbox"> 8397</label><br>
+<label><input type="checkbox"> 8615 (na quadra de contorno)</label><br>
+
+<br>
+
+<p><strong>R. Albino Evaldo Muller</strong></p>
+
+<label><input type="checkbox"> 1</label><br>
+<label><input type="checkbox"> 197</label><br>
+<label><input type="checkbox"> 199</label><br>
+<label><input type="checkbox"> 5-A</label><br>
+<label><input type="checkbox"> 5-B</label><br>
+
+<br>
+
+<p><strong>Trav. de Invasão</strong></p>
+
+<label><input type="checkbox"> 3</label><br>
+<label>|X| Comércio*</label><br>
+<label><input type="checkbox"> S/N</label><br>
+<label><input type="checkbox"> S/N</label><br>
+
+<hr>
+
+<p>
+* Locais marcados com asterisco podem ser pontos com restrição, ou mesmo, de outras modalidades (como Comércios ou Condomínios) em que há períodos determinados de pregação.
+<br><br>
+2/3
+</p>
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>QUADRA 03-D</h1>
+<h3>(APÓS ESCADARIA)</h3>
+
+<img src="quadra03d.png" width="100%">
+
+<p>(20 CASAS)</p>
+
+<p><strong>Trav. Beira Rio</strong></p>
+
+<label><input type="checkbox"> S/N (1)</label><br>
+<label><input type="checkbox"> S/N (2)</label><br>
+<label><input type="checkbox"> 79</label><br>
+<label><input type="checkbox"> S/N (3)</label><br>
+<label><input type="checkbox"> S/N (4)</label><br>
+<label><input type="checkbox"> 9</label><br>
+<label><input type="checkbox"> S/N (5)</label><br>
+<label><input type="checkbox"> S/N (6)</label><br>
+
+<br>
+
+<p><strong>R. Sgt. Haroldo Cordeiro Jr.</strong></p>
+
+<label><input type="checkbox"> 45</label><br>
+<label><input type="checkbox"> 16</label><br>
+<label><input type="checkbox"> 78</label><br>
+<label><input type="checkbox"> 17</label><br>
+<label><input type="checkbox"> 69</label><br>
+
+<br>
+
+<p><strong>R. Piraí do Sul (Curva invasão)</strong></p>
+
+<label><input type="checkbox"> S/N (1)</label><br>
+<label><input type="checkbox"> S/N (2)</label><br>
+<label><input type="checkbox"> S/N (3)</label><br>
+<label><input type="checkbox"> 70</label><br>
+<label><input type="checkbox"> S/N (4)</label><br>
+<label><input type="checkbox"> S/N (5)</label><br>
+<label><input type="checkbox"> 22 (Esquina da escadaria)</label><br>
+
+<hr>
+
+<p>
+7/10
+<br><br>
+* Locais marcados com asterisco podem ser pontos com restrição, ou mesmo, de outras modalidades (como Comércios ou Condomínios) em que há períodos determinados de pregação.
+</p>
+
+</body>
+</html>

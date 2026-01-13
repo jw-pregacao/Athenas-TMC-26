@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>QUADRA 02-E</h1>
+<h3>(LADO 01)</h3>
+
+<img src="quadra02e-lado01.png" width="100%">
+
+<p>(09 CASAS)</p>
+
+<p><strong>R. Maria Luiza Rossa</strong></p>
+
+<label><input type="checkbox"> 338</label><br>
+<label><input type="checkbox"> 324</label><br>
+<label><input type="checkbox"> 314</label><br>
+<label><input type="checkbox"> 300</label><br>
+<label><input type="checkbox"> 288</label><br>
+<label><input type="checkbox"> 276</label><br>
+
+<br>
+
+<p><strong>R. Cruzeiro do Oeste</strong></p>
+
+<label><input type="checkbox"> 210</label><br>
+<label><input type="checkbox"> 184</label><br>
+<label><input type="checkbox"> 166</label><br>
+
+<hr>
+
+<p>
+8/11
+<br><br>
+* Locais marcados com asterisco podem ser pontos com restrição, ou mesmo, de outras modalidades (como Comércios ou Condomínios) em que há períodos determinados de pregação.
+</p>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>QUADRA 01-A</h1>
+<h3>(LADO DIREITO ATÉ O PORTAL)</h3>
+
+<img src="quadra01a.png" width="100%">
+
+<p>(14 CASAS)</p>
+
+<p><strong>R. Sgt. Haroldo Cordeiro Jr.</strong></p>
+
+<label><input type="checkbox"> 140</label><br>
+<label><input type="checkbox"> S/N</label><br>
+<label><input type="checkbox"> 118</label><br>
+<label><input type="checkbox"> 108</label><br>
+<p><strong>✔ Comercial*</strong></p>
+<label><input type="checkbox"> 30</label><br>
+<label><input type="checkbox"> 86</label><br>
+<label><input type="checkbox"> 64</label><br>
+<label><input type="checkbox"> 54</label><br>
+<label><input type="checkbox"> 7</label><br>
+<label><input type="checkbox"> 2000</label><br>
+
+<br>
+
+<p><strong>R. Eduardo Sprada (até o portal)</strong></p>
+
+<label><input type="checkbox"> 8285</label><br>
+<label><input type="checkbox"> S/N</label><br>
+<p><strong>✔ Comercial*</strong></p>
+<label><input type="checkbox"> 8319</label><br>
+<label><input type="checkbox"> 8377</label><br>
+
+<hr>
+
+<p>
+* Locais marcados com asterisco podem ser pontos com restrição, ou mesmo, de outras modalidades (como Comércios ou Condomínios) em que há períodos determinados de pregação.
+<br><br>
+1/4
+</p>
+
+</body>
+</html>

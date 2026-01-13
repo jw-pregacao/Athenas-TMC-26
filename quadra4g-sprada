@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>QUADRA 07-G</h1>
+
+<p><strong>(22 CASAS)</strong></p>
+
+<p><strong>R. Eduardo Sprada</strong></p>
+
+<label>
+  <input type="checkbox" disabled checked>
+  Conj. casas*
+</label><br>
+
+<label><input type="checkbox"> S/N</label><br>
+<label><input type="checkbox"> S/N</label><br>
+
+<label>
+  <input type="checkbox" disabled checked>
+  Conj. casas*
+</label><br>
+
+<label><input type="checkbox"> 7819</label><br>
+<label><input type="checkbox"> 7837</label><br>
+
+<br>
+
+<p><strong>R. Cruzeiro do Oeste</strong></p>
+
+<label><input type="checkbox"> 3</label><br>
+<label><input type="checkbox"> 45</label><br>
+<label><input type="checkbox"> 57</label><br>
+
+<label>
+  <input type="checkbox" disabled checked>
+  Comércio*
+</label><br>
+
+<label><input type="checkbox"> 89</label><br>
+<label><input type="checkbox"> 81</label><br>
+<label><input type="checkbox"> 85</label><br>
+<label><input type="checkbox"> 105</label><br>
+
+<label><input type="checkbox"> S/N</label><br>
+<label><input type="checkbox"> S/N</label><br>
+<label><input type="checkbox"> S/N</label><br>
+<label><input type="checkbox"> S/N</label><br>
+
+<label><input type="checkbox"> 194-1</label><br>
+<label><input type="checkbox"> 194-3</label><br>
+<label><input type="checkbox"> 194-4</label><br>
+<label><input type="checkbox"> 194-2</label><br>
+
+<br>
+
+<p><strong>R. Cid. de Concórdia</strong></p>
+
+<label><input type="checkbox"> 180</label><br>
+<label><input type="checkbox"> 166</label><br>
+<label><input type="checkbox"> 156</label><br>
+<label><input type="checkbox"> 156-2</label><br>
+<label><input type="checkbox"> 156-1</label><br>
+<label><input type="checkbox"> 144</label><br>
+<label><input type="checkbox"> 134</label><br>
+<label><input type="checkbox"> Terreno</label><br>
+<label><input type="checkbox"> 80</label><br>
+
+<hr>
+
+<p>
+11/11
+<br><br>
+* Locais marcados com asterisco podem ser pontos com restrição, ou mesmo, de outras modalidades (como Comércios ou Condomínios) em que há períodos determinados de pregação.
+</p>
+
+</body>
+</html>

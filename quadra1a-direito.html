@@ -41,5 +41,16 @@
 1/3
 </p>
 
+<script>
+document.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+  const saved = localStorage.getItem(cb.id);
+  if (saved === 'true') cb.checked = true;
+
+  cb.addEventListener('change', () => {
+    localStorage.setItem(cb.id, cb.checked);
+  });
+});
+</script>
+  
 </body>
 </html>
